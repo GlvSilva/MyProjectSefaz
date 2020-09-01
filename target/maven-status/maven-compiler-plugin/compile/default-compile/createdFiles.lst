@@ -1,0 +1,5 @@
+br\com\project\users\dao\UserDao.class
+br\com\project\users\entity\Phone.class
+br\com\project\users\UsersApplication.class
+br\com\project\users\entity\Users.class
+br\com\project\users\dao\PhoneDao.class
